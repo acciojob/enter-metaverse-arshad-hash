@@ -8,7 +8,7 @@ function onclick(){
 	
 let h1=document.createElement("h1");
 	change.innerText="";
-h1.innerText="Entered the Metaverse";
+h1.innerText="Entered Metaverse";
 change.appendChild(h1);
 	
 }
